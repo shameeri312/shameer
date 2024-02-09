@@ -1,1 +1,0 @@
-@import"https://fonts.googleapis.com/css2?family=Poppins&display=swap";*{font-family:Poppins,sans-serif;transition:.25s all linear;flex-wrap:nowrap;scroll-behavior:smooth}.width{width:calc(100% - 250px);right:0}@media only screen and (max-width: 768px){.width{width:100%}}@tailwind base;@tailwind components;@tailwind utilities;
